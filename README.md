@@ -2,7 +2,7 @@
 
 Role-specific portfolio for Manager, Technical Service Operations opportunities.
 
-**Live:** https://rdammala.github.io/CoreSoundImaging_Manager-Technical-Service-Operations/
+**Live:** https://rdammala-org.github.io/CoreSoundImaging_Manager-Technical-Service-Operations/
 
 ## Stack
 Vanilla HTML / CSS / JS · Google Fonts (Inter) · dark/light theme.
